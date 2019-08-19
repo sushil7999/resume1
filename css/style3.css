@@ -1,0 +1,26 @@
+body{
+	background-image:url('../images/img1.jpg');
+	}
+a  {
+   text-decoration:none;
+   }
+#navbar ul{
+			padding:0;
+			list-style:none;
+		   }
+#navbar li{
+			display:inline;
+			}
+#navbar a{
+			color:crimson;
+			font-size:18px;
+			padding-right:15px;
+		}	
+p{
+   margin:30px;
+   font:normal 20px areal,helvetica,sans-seriff;
+   }		
+			
+				
+		   
+		
